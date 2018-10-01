@@ -8,5 +8,14 @@ class HelloWorld
     { 
 		// initial code:
         System.out.println("Hello, World"); 
+		
+		// New feature
+		System.out.println(newFeatureMethod());
     } 
+	
+	
+	public static String newFeatureMethod()
+	{
+		return "It's a new feature";
+	}
 } 
