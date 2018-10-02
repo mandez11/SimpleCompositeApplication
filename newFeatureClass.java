@@ -17,4 +17,10 @@ public class NewFeatureClass
 		// ...
 		
 	}
+
+	/* GetIntValue */
+	public int GetIntValue()
+	{
+		return 10;
+	}
 }
