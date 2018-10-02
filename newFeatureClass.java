@@ -8,5 +8,13 @@ public class NewFeatureClass
 
 	/* adding super method to new_feature */
 	public String newFeatureSuperMethod()
-	{}
+	{
+		
+		// Developer #1 add some action to method
+		// ...
+		
+		// Developer #2 more improve
+		// ...
+		
+	}
 }
