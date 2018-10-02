@@ -18,4 +18,9 @@ class HelloWorld
 	{
 		return "It's a new feature";
 	}
+
+    public static int returnValue()
+	{
+		return 0;
+	}
 } 
