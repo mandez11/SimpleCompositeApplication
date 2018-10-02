@@ -3,8 +3,10 @@ public class CoolFeatureClass
     private int intField;
     private string strField;
 
-    public CoolFeatureClass()
+    public CoolFeatureClass(int i, string s)
     {
+        this.intField = i;
+        this.strField = s;
     }
 
     /* Getters/Setters Methods */
