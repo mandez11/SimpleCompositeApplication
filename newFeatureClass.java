@@ -13,5 +13,8 @@ public class NewFeatureClass
 		// Developer #1 add some action to method
 		// ...
 		
+		// Developer #2 more improve
+		// ...
+		
 	}
 }
