@@ -9,4 +9,6 @@ public class NewFeatureClass
 	/* adding super method to new_feature */
 	public String newFeatureSuperMethod()
 	{}
+	
+
 }
