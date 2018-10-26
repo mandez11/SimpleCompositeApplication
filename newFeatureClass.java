@@ -18,6 +18,9 @@ public class NewFeatureClass
 
 		// Add from 'release/2.0.1' branch
 		// ...
+
+		// Add from 'test' branch
+		// ...
 		
 	}
 
