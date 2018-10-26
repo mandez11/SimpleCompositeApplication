@@ -15,6 +15,9 @@ public class NewFeatureClass
 		
 		// Developer #2 more improve
 		// ...
+
+		// Add from 'release/2.0.1' branch
+		// ...
 		
 	}
 
