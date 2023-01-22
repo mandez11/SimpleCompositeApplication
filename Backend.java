@@ -12,6 +12,11 @@ public class Backend {
     } 
     
     public void stop() {
-        // TODO: stopping the backend execution
+        // TODO: stopping the backend execution ("edited")
+        // new line
+    }
+
+    public bool someCoolMethodAdded() {
+        // TODO: the implementation of the cool method
     }
 }
