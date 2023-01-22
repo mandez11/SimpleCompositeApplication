@@ -13,7 +13,6 @@ class HelloWorld
 		System.out.println(newFeatureMethod());
     } 
 	
-	
 	public static String newFeatureMethod()
 	{
 		return "It's a new feature";
@@ -23,4 +22,8 @@ class HelloWorld
 	{
 		return 0;
 	}
+
+    public static Object returnObject() {
+        return new Object();
+    }
 } 
